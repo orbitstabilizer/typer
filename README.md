@@ -8,7 +8,7 @@ Typing test in your terminal
 
 To just install `typer` simply use this command:
 ```
-go install github.com/maaslalani/typer@latest
+go install github.com/orbitstabilizer/typer@latest
 ```
 
 ### Usage

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/maaslalani/typer/pkg/flags"
-	"github.com/maaslalani/typer/pkg/typer"
+	"github.com/orbitstabilizer/typer/pkg/flags"
+	"github.com/orbitstabilizer/typer/pkg/typer"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

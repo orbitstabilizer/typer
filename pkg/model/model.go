@@ -7,7 +7,7 @@ import (
 	"github.com/charmbracelet/bubbles/progress"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/guptarohit/asciigraph"
-	"github.com/maaslalani/typer/pkg/theme"
+	"github.com/orbitstabilizer/typer/pkg/theme"
 )
 
 const (

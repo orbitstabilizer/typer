@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	util "github.com/maaslalani/typer/pkg/utility"
+	util "github.com/orbitstabilizer/typer/pkg/utility"
 )
 
 const (
