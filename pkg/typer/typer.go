@@ -13,10 +13,10 @@ import (
 
 	"github.com/charmbracelet/bubbles/progress"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/maaslalani/typer/pkg/flags"
-	"github.com/maaslalani/typer/pkg/model"
-	"github.com/maaslalani/typer/pkg/theme"
-	util "github.com/maaslalani/typer/pkg/utility"
+	"github.com/orbitstabilizer/typer/pkg/flags"
+	"github.com/orbitstabilizer/typer/pkg/model"
+	"github.com/orbitstabilizer/typer/pkg/theme"
+	util "github.com/orbitstabilizer/typer/pkg/utility"
 	wrap "github.com/mitchellh/go-wordwrap"
 	"github.com/spf13/viper"
 )

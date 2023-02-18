@@ -1,6 +1,6 @@
 package main
 
-import "github.com/maaslalani/typer/cmd"
+import "github.com/orbitstabilizer/typer/cmd"
 
 func main() {
 	cmd.Execute()
