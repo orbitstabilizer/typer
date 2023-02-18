@@ -72,7 +72,7 @@ func (t Theme) StringColor(rgbColors RGBColor, input string) termenv.Style {
 	if rgbColors.Foreground != "" {
 		output = output.Foreground(termenv.RGBColor(rgbColors.Foreground))
 	}
-
+	output = output.CursorBlink()
 	return output
 }
 
